@@ -1,8 +1,7 @@
-## [![CI](https://github.com/tkgregory/debug-demo/actions/workflows/gradle.yml/badge.svg)](https://github.com/tkgregory/debug-demo/actions/workflows/gradle.yml)
 
 Battleship game to demonstrate debugging. 
 
-Check out the YouTube video for full details. 👇<br/>
+Check out my full details. 👇<br/>
 [<img src="Battleship.jpg" width="500"/>](https://github.com/maverickmanish)
 
 ## How to play

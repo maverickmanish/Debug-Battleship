@@ -1,4 +1,4 @@
-[![CI](https://github.com/tkgregory/debug-demo/actions/workflows/gradle.yml/badge.svg)](https://github.com/tkgregory/debug-demo/actions/workflows/gradle.yml)
+## [![CI](https://github.com/tkgregory/debug-demo/actions/workflows/gradle.yml/badge.svg)](https://github.com/tkgregory/debug-demo/actions/workflows/gradle.yml)
 
 Battleship game to demonstrate debugging. 
 
